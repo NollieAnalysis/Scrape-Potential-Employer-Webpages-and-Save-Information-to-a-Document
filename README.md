@@ -139,6 +139,9 @@ output1.docx file
 
 Asking a LLM to summarize output file
 
+![question_to_LLM](https://github.com/NollieAnalysis/Scrape-Webpages-and-Save-Info.-to-A-Document/assets/163913188/b8742394-3768-42a5-bfcd-6f4d20041a9b)
+
+
 ```
 Can you summarize (in bullet points) the below text?
 
@@ -164,8 +167,22 @@ In its first year, the new structure proved successful in meeting the goals of e
 Since 2018, Haskell’s revenue has doubled to just shy of $2 billion, and its workforce has grown 40%. Ensuring that such expansion is meaningful and profitable has required planning, foresight and investment in several areas crucial to the entire AEC industry.
 ```
 
+Summary from LLM
+
+![answer_from_LLM](https://github.com/NollieAnalysis/Scrape-Webpages-and-Save-Info.-to-A-Document/assets/163913188/46fa46aa-f866-4d0b-8c3e-53c9df955fbc)
 
 
+```
+- Haskell provides fully integrated facility solutions for capital projects across markets, serving both private and public sectors with local presence and global reach.
+- The company offers expertise across various disciplines, ensuring performance-driven facilities from concept to completion.
+- Haskell boasts a global network of experts in design, engineering, construction, and professional services.
+- Haskell's history dates back to its first commercial construction contract, breaking ground in the architectural, engineering, and construction (AEC) world.
+- The company pioneered the design-build delivery method, now a significant portion of construction spending in the United States.
+- Haskell has grown significantly over the decades, driven by innovation and customer service excellence.
+- Under the leadership of CEO Jim O’Leary, Haskell has doubled its workforce and revenue since 2018, focusing on building a foundation for the future.
+- The company implemented a strategic plan called Haskell 2025, emphasizing inclusivity, culture, and core values like Team, Excellence, Service, and Trust.
+- Haskell's revenue has nearly reached $2 billion, with a 40% increase in its workforce since 2018, reflecting meaningful and profitable expansion.
+```
 
 
 
