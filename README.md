@@ -122,6 +122,16 @@ for item in result:
 doc.save('output1.docx')
 
 ```
+Sample section of website that was scraped
+
+![website_sample](https://github.com/NollieAnalysis/Scrape-Webpages-and-Save-Info.-to-A-Document/assets/163913188/7400cac3-c4f5-4b46-a776-8ea833f43c9a)
+
+Looking specifically for `<p>` tags
+
+![website_p_tag_sample](https://github.com/NollieAnalysis/Scrape-Webpages-and-Save-Info.-to-A-Document/assets/163913188/f5f375ca-c9d4-4a19-90d0-ee4f4210eebe)
+
+
+output1.docx file
 
 
 
