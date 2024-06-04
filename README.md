@@ -1,4 +1,4 @@
-# Scrape-Webpages-and-Save-Info.-to-A-Document
+# Scrape-Potential-Employer-Webpages-and-Save-Information-to-a-Document
 
 # Project Objectives:
 Scrape text data from specific sections of a website and save results to a word document for later analysis. I wanted an easier way to collect information about companies I was interested in working for.
